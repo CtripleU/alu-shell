@@ -1,1 +1,1 @@
-Basic shell scripts
+## Shell basics and navigation
