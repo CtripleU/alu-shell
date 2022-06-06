@@ -25,4 +25,8 @@ Words should be sorted
 
 ### Task 16 - A shell script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 
-### Task 17 - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+### Task 17 - Shell script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
+
+### Task 18 - Shell script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+- include capital letters as well
+
