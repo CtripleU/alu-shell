@@ -30,3 +30,5 @@ Words should be sorted
 ### Task 18 - Shell script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
 - include capital letters as well
 
+### Task 22 - Shell script that displays all users and their home directories, sorted by users
+- Based on the the /etc/passwd file
