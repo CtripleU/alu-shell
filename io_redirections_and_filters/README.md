@@ -6,6 +6,10 @@
 
 ### Task 10 - A shell script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
-### Task 11 - Write a script that counts the number of directories and sub-directories in the current directory.
+### Task 11 - A shell script that counts the number of directories and sub-directories in the current directory.
 - The current and parent directories should not be taken into account
 - Hidden directories should be counted
+
+### Task 12 - A shell script that displays the 10 newest files in the current directory.
+- It should print one file per line
+- It should be sorted sorted from the newest to the oldest
