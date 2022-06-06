@@ -22,3 +22,5 @@ Words should be sorted
 ### Task 14 - A shell script that displays lines containing the pattern “root” from the file /etc/passwd
 
 ### Task 15 - A shell script that display sthe number of lines that contain the pattern “bin” in the file /etc/passwd
+
+### Task 16 - A shell script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
