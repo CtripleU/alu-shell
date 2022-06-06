@@ -13,3 +13,8 @@
 ### Task 12 - A shell script that displays the 10 newest files in the current directory.
 - It should print one file per line
 - It should be sorted sorted from the newest to the oldest
+
+### Task 13 - Shell script that takes a list of words as input and prints only words that appear exactly once.
+- Input format: One line, one word
+- Output format: One line, one word
+Words should be sorted
