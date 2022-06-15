@@ -10,4 +10,4 @@ Init Files Variables and Expansions
 
 ### Task 5 - Create a script that lists all local variables and environment variables, and functions.
 
-
+### Task 6 - Create a script that creates a new local variable.
