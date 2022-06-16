@@ -35,3 +35,11 @@ Loops Conditions and Parsing
 
 - You must use the while loop (for and until are forbidden)
 ### Note that in this example, we only display the first 70 lines using the head command.
+
+### Task 8 - Write a Bash script that displays:
+- The content of the current directory
+- In a list format
+- Where only the part of the name after the first dash is displayed (refer to the example)
+
+- You must use the for loop (while and until are forbidden)
+- Do not display hidden files
