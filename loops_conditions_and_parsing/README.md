@@ -81,3 +81,11 @@ Loops Conditions and Parsing
 - You are not allowed to use while, for, until and cut
 - Download and commit the apache-access.log file along with your answers files
 
+### Task 14 -	Using what you did in the previous exercise, write a Bash script that groups visitors by IP and HTTP status code, and displays this data. The exact format must be:
+- OCCURENCE_NUMBER IP HTTP_CODE
+- In list format
+- Ordered from the greatest to the lowest number of occurrences
+- See example
+- You must use awk
+- You are not allowed to use while, for, until and cut
+
