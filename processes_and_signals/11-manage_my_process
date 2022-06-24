@@ -1,7 +1,7 @@
 #!/usr/bin/env bash 
 # see task 10 in README.
 
-if [ "$1" == "start" ]
+if [ "{$1}" == "start" ]
 then
     ./manage_my_process &
     echo "$$" > /var/run/my_process.pid
